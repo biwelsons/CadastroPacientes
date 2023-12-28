@@ -1,0 +1,7 @@
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.csproj.AssemblyReference.cache
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.AssemblyInfoInputs.cache
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.AssemblyInfo.cs
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GUILHERME FIGUEIREDO\Desktop\ApiNovoSistema\CadastroPacientes\CadastroPacientes\obj\Debug\net8.0\CadastroPacientes.MvcApplicationPartsAssemblyInfo.cache
